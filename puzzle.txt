@@ -1,0 +1,70 @@
+﻿ID: 001
+Title:  Photography1  (Easy)
+Words:  BEAN BAG, IMPRESA, LENS, MANUAL, MATT, NIKON, PRISM, ROLL, SENSIA, TONE
+M,M,U,K,W,X,M,Y,Q,V,
+S,A,F,S,L,K,A,L,T,B,
+E,T,N,C,P,I,N,E,O,E,
+N,T,R,G,B,M,U,N,N,O,
+S,W.O,Z.C,P,A,S,E,V,
+I,S,L,E,E,R,L,E,K,Y,
+A,P,L,W,P.E,B,F,D,A,
+N,I,K,O,N,S,L,O,U,F,
+B,E,A,N,B,A,G,W,X,P,
+R,D,S,K,P,R,I,S,M,M,
+--------------------------------------------
+ID: 002
+Title:  Photography2  (Easy)
+Words:  BEAN BALL, IMPRESA, LENS, MANUAL, NATE, NIKON, PRISM, ROLL, SENSIA, TONE
+M,N,U,K,W,X,M,Y,Q,V,
+S,A,F,S,L,K,A,L,T,B,
+E,T,N,C,P,I,N,E,O,E,
+N,E,R,G,B,M,U,N,N,O,
+S,W.O,Z.C,P,A,S,E,V,
+I,S,L,E,E,R,L,E,K,Y,
+A,P,L,W,P.E,B,F,D,A,
+N,I,K,O,N,S,L,O,U,F,
+B,E,A,N,B,A,L,L,X,P,
+R,D,S,K,P,R,I,S,M,M,
+-------------------------------------------
+ID: 003
+Title:  Photography3  (Multi-Byte)
+Words:  BEAN BALL, IMPRESA, LENS, MANUAL, NATE, NIKON, PRISM, ROLL, SENSIA, TONE
+NM,N,UN,KY,WR,XS,M,Y,Q,V,
+S,A,F,S,L,K,A,L,T,B,
+E,T,N,C,P,I,N,E,O,E,
+N,E,R,G,B,M,U,N,N,O,
+S,W.O,Z.C,P,A,S,E,V,
+IA,S,L,E,E,R,L,E,K,Y,
+A,P,L,W,P,E,B,F,D,A,
+N,I,K,O,N,S,L,O,U,F,
+B,E,A,N,B,A,L,L,X,P,
+R,D,S,K,P,R,I,S,M,M,
+------------------------------------------------ 
+ID: 004
+Title:  Martin Luther King  (Telugu)
+Words:  మార్టిన్ లూథర్ కింగ్,  మేధావి
+గ్,	కొ ,	ల,	మా,	నం,	చే,	తీ,	ళ్ళ,	న,	మై,
+ప,	కిం,	ప,	ను,	ధా,	ర,	గా,	న్న,	తె,	లి,
+రం,	డు,	ర్,	చి,	గ,	కి,	ల,	కి,	మే,	చి,
+క,	మం,	హ,	థ,	చు,	స,	వై,	ధా,	రో,	కుం,
+ద,	చి,	పు,	త,	లూ,	ఉ,	వి,	వ,	మ,	డే,
+మా,	స్థి,	లు,	గిం,	ద్య,	న్,	వే,	నేం,	పు,	రే,
+ప్ర,	పు,	ది,	మ,	ము,	అ,	ర్టి,	సు,	ర్తం,	ఉ,
+లు,	డ,	కా,	తు,	తా,	చె,	క,	మా,	హూ,	త,
+హీ,	రు,	మీ,	ని,	రిం,	ని,	న్ను,	ని,	ము,	మ,
+డు,	డా,	ల,	గు,	కో,	ఇ,	వం,	దే,	నం,	మౌ,
+--------------------------------------------
+ID: 005
+Title: Test 005 (Telugu)
+Words:ఆశలు, కలలు, స్వప్నాలు, అలోచన, వైఫల్యాలు, ఆనందస్థితి, ఉపకారాలు, చిన్నపిల్లలు, సహకారాలు, సువర్ణావకాశం, డాక్టర్ అబ్దుల్ కలాం, అన్వేషించు
+తుం,ఆ,నం,ద,స్థి,తి,రి,వా,త,పిం,
+చి,త,కి,లు,రా,కా,ప,ఉ,ర్దా,ళ్ళ,
+న్న,న,బ,య,అ,లు,వా,గ,వం,స,
+పి,లు,ప్నా,స్వ,లు,యా,ల,లు,శ,ఆ,
+ల్ల,చె,క,డా,రా,వై,లో,క,అ,కో,
+లు,గ,డ,రీ,కా,వి,ఫ,న్వే,ను,క,
+అ,వా,ట్ట,ల,హ,చా,షిం,ల్యా,రా,చె,
+న,చ,లో,అ,స,చు,హ,చు,లు,ని,
+డ,హ,సు,వ,ర్ణా,వ,కా,శం,చ,ముం,
+లాం,క,ల్,బ్దు,అ,ర్,క్ట,డా,కో,హిం,
+-------------------------------------------------
